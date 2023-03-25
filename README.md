@@ -5,11 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulakrishnan-j" alt="gokulakrishnan-j" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://gokulakrishnanj.netlify.app/](https://gokulakrishnanj.netlify.app/)
+- 🔭 project [Ticketing system](https://ticketing-system-for-query.netlify.app)
+
+- 🔭 project [Auction](https://strong-biscochitos-e35744.netlify.app)
+
+- 🔭 project [E-commers](https://astonishing-blancmange-b1fd4a.netlify.app)
+
+- 👨‍💻 Portfolio [https://gokulakrishnanj.netlify.app/](https://gokulakrishnanj.netlify.app/)
 
 - 💬 Ask me about **react.js,node.js,mongodb**
 
 - 📫 How to reach me **gokulakrishnan252@gmail.com**
+
+- 📄 Know about my experiences [https://ik.imagekit.io/qebk8kctw/gokulakrishnanCV.pdf?updatedAt=1678865660515](https://ik.imagekit.io/qebk8kctw/gokulakrishnanCV.pdf?updatedAt=1678865660515)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
