@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gokulakrishnan252@gmail.com**
 
-- 📄 Know about my experiences [https://ik.imagekit.io/qebk8kctw/gokulakrishnanCV.pdf?updatedAt=1678865660515](https://ik.imagekit.io/qebk8kctw/gokulakrishnanCV.pdf?updatedAt=1678865660515)
+- 📄 Resume [https://drive.google.com/file/d/17af7E_kljsXC1FZ3ni4ddjlMpsXOEopU/view?usp=sharing](https://drive.google.com/file/d/17af7E_kljsXC1FZ3ni4ddjlMpsXOEopU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
