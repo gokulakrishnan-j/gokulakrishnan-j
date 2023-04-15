@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokulakrishnan j</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate to new development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulakrishnan-j&label=Profile%20views&color=0e75b6&style=flat" alt="gokulakrishnan-j" /> </p>
 
